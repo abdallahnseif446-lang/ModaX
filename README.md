@@ -1,1 +1,1 @@
-# ModaX
+# ModaX project
